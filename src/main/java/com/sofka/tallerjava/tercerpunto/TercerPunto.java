@@ -1,4 +1,4 @@
-package com.sofka.tallerJava;
+package com.sofka.tallerjava.tercerpunto;
 
 import java.util.Scanner;
 

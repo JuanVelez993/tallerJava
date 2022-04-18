@@ -1,17 +1,21 @@
-package com.sofka.tallerJava;
+package com.sofka.tallerjava.segundopunto;
 
 import java.util.Scanner;
 
 public class SegundoPunto {
     public static void comparar (Integer x, Integer y){
-        int compare = Integer.compare(x, y);
-        if (compare>0){
+        if (x>y){
             System.out.println("El numero "+x+" es Mayor, y el numero "+y+" es Menor");
-        }else if (compare < 0) {
-            System.out.println("El numero " + y + " es Mayor, y el numero "+x+" es Menor");
-        } else {
-            System.out.println("Los dos numeros son iguales");
+            return;
         }
+        menorIgual(x,y);
+    }
+    public static void menorIgual(Integer x, Integer y){
+        if (x < y) {
+            System.out.println("El numero " + y + " es Mayor, y el numero "+x+" es Menor");
+            return;
+        }
+        System.out.println("Los numeros son iguales");
     }
     public static void main(String[] args) {
         Integer valorUno;

@@ -1,4 +1,4 @@
-package com.sofka.tallerJava;
+package com.sofka.tallerjava.cuartopunto;
 
 import java.util.Scanner;
 
