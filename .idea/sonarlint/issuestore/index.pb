@@ -1,8 +1,6 @@
 
 <
 build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
-p
-@src/main/java/com/sofka/tallerjava/excercise_2/SegundoPunto.java,a\5\a59ae67d1648fd6836f3c17f045fb6c981c8a62b
 l
 <src/main/java/com/sofka/tallerjava/excercise_16/Persona.java,8\5\856bcf2ac2a80d62cdfbcc3e1033cde4915e2fcc
 s
