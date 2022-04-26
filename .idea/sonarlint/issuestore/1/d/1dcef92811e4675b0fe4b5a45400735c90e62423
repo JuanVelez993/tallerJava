@@ -1,0 +1,26 @@
+
+U
+java:S1118":Add a private constructor to hide the implicit public one.(¡îÁˆüÿÿÿÿ
+P
+java:S1854":Remove this useless assignment to local variable "nombre".(î–ØÛ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(½Û˜Ïøÿÿÿÿ
+7
+java:S1116""Remove this empty statement.(ôŸìúÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ˆÖ™ıÿÿÿÿ
+7
+java:S1116("Remove this empty statement.(ôŸìúÿÿÿÿ
+U
+java:S1854*":Remove this useless assignment to local variable "genero".(Ñ…¾ßüÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(Ô‡“ıÿÿÿÿ
+7
+java:S1116."Remove this empty statement.(ôŸìúÿÿÿÿ
+S
+java:S18540"8Remove this useless assignment to local variable "peso".(’‘Š­üÿÿÿÿ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(šÎÔ¢
+7
+java:S11164"Remove this empty statement.(ôŸìúÿÿÿÿ
+P
+java:S18547":Remove this useless assignment to local variable "altura".(–¹ÂŒ
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(ÇßÙ¿
+7
+java:S1116;"Remove this empty statement.(ôŸìúÿÿÿÿ

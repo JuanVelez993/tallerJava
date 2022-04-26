@@ -12,7 +12,8 @@ public class Television extends Electrodomestico{
         super(precio, peso);
     }
 
-    public Television(double resolucion, boolean sintonizadorTDT) {
+    public Television(Double precioBase, Double peso, Character consumoenergetico, String color, Double resolucion, Boolean sintonizadorTDT) {
+        super(precioBase, peso, consumoenergetico, color);
         this.resolucion = resolucion;
         this.sintonizadorTDT = sintonizadorTDT;
     }
@@ -23,5 +24,19 @@ public class Television extends Electrodomestico{
 
     public Boolean getSintonizadorTDT() {
         return sintonizadorTDT;
+    }
+
+    @Override
+    public Double precioFinal() {
+        if(this.resolucion>40)
+        {
+            return super.precioFinal()*1.3;
+        }
+
+        if(this.resolucion>40&&this.sintonizadorTDT)
+        {
+            return super.precioFinal()*1.3+50;
+        }
+        return super.precioFinal();
     }
 }

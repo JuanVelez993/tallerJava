@@ -1,0 +1,20 @@
+
+u
+java:S1488‡"^Immediately return this expression instead of assigning it to the temporary variable "number".(ÓÅ²Ä
+w
+java:S1488‘"`Immediately return this expression instead of assigning it to the temporary variable "valorDNI".(‚¨áð
+h	java:S116"NRename this field "DNI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èüöšýÿÿÿÿ
+7
+java:S1116_"Remove this empty statement.(Åñ­õþÿÿÿÿ
+7
+java:S1116h"Remove this empty statement.(Åñ­õþÿÿÿÿ
+7
+java:S1116o"Remove this empty statement.(Åñ­õþÿÿÿÿ
+7
+java:S1116u"Remove this empty statement.(Åñ­õþÿÿÿÿ
+5
+java:S2119†"Save and re-use this "Random".(–áÍÈ
+8
+java:S1116Œ"Remove this empty statement.(Åñ­õþÿÿÿÿ
+8
+java:S1116•"Remove this empty statement.(Åñ­õþÿÿÿÿ
